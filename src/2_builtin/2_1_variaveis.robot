@@ -22,8 +22,8 @@ Teste 1 - Variável Local
     Should Not Be Equal    ${X}    ${Y}
 
 Teste 2 - Variável não declarada
-    Log To Console    ${X}
-    Log To Console    ${Y}
+    Log To Console    ${X}    
+    Log To Console    ${Y}    
 
 Teste 3 - Variável de teste
     
